@@ -1,0 +1,28 @@
+name: Aurora Strategy Group
+favicon: null
+layout_spectrum: 0.8018260593526065
+typography_spectrum: 0.8444047269877046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7779092991258949
+  lightness: 0.9542564651928842
+  saturation: 0.30298370076343417
+  rhythmicContrast: 0.5924933007918298
+purpose: []
